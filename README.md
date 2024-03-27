@@ -17,10 +17,9 @@ How to contact me: Just send email to [ruslan.diakov00@gmail.com](mailto:ruslan.
 ![Static Badge](https://img.shields.io/badge/mysql-E0BB3F?style=for-the-badge&logo=mysql&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-E0BB3F?style=for-the-badge&logo=PostgreSQL&logoColor=black)
 ![Static Badge](https://img.shields.io/badge/sqlite-E0BB3F?style=for-the-badge&logo=sqlite&logoColor=black)
-
-
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/Clojure-239120?style=for-the-badge&logo=clojure&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-2A9572?style=for-the-badge&logo=Python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Pandas-2A9572?style=for-the-badge&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Scikit--Learn-2A9572?style=for-the-badge&logoColor=white)
 
 <!--
 **RuslanDiakov/RuslanDiakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
