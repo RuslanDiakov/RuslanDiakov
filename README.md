@@ -1,5 +1,5 @@
-## Hello World 🌎👋
-# *Think outside the box - that's how innovations are born.*
+# Hello World 🌎👋
+### *Think outside the box - that's how innovations are born.*
 
 I'm a software engineer with experience in developing desktop and web applications using Java, C#, SQL, and related technologies.
 
