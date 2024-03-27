@@ -9,6 +9,10 @@ How to contact me: Just send email to [ruslan.diakov00@gmail.com](mailto:ruslan.
 
 ## My tech stack
 ![Static Badge](https://img.shields.io/badge/C%23-316192?style=for-the-badge&logo=csharp&logoColor=white)
+![Static Badge](https://img.shields.io/badge/WPF-316192?style=for-the-badge&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MVC-316192?style=for-the-badge&logoColor=white)
+
+
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Clojure-239120?style=for-the-badge&logo=clojure&logoColor=white)
 
