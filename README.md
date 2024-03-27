@@ -7,6 +7,8 @@ My education: **Bachelor's Degree**. Technical University in Kosice, Fakulta ele
 
 How to contact me: Just send email to [ruslan.diakov00@gmail.com](mailto:ruslan.diakov00@gmail.com)
 
+⚡ Fun fact: This picture is from Austria "5 Fingers"
+
 ## My tech stack
 ![Static Badge](https://img.shields.io/badge/C%23-316192?style=for-the-badge&logo=csharp&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/WPF-316192?style=for-the-badge&logoColor=white)
@@ -21,7 +23,6 @@ How to contact me: Just send email to [ruslan.diakov00@gmail.com](mailto:ruslan.
 ![Static Badge](https://img.shields.io/badge/Pandas-2A9572?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Scikit--Learn-2A9572?style=for-the-badge&logoColor=white)
 
-⚡ Fun fact: This picture is from Austria "5 Fingers"
 <!--
 **RuslanDiakov/RuslanDiakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
