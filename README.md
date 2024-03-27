@@ -21,6 +21,7 @@ How to contact me: Just send email to [ruslan.diakov00@gmail.com](mailto:ruslan.
 ![Static Badge](https://img.shields.io/badge/Pandas-2A9572?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Scikit--Learn-2A9572?style=for-the-badge&logoColor=white)
 
+⚡ Fun fact: This picture is from Austria "5 Fingers"
 <!--
 **RuslanDiakov/RuslanDiakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,6 +36,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - 
 -->
-⚡ Fun fact: This picture is from Austria "5 Fingers"
 
 ## You can analyze my projects below ⬇️
