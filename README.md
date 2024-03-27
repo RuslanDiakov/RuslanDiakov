@@ -1,4 +1,5 @@
 ## Hello World 🌎👋
+#*Think outside the box - that's how innovations are born.*
 I'm a software engineer with experience in developing desktop and web applications using Java, C#, SQL, and related technologies.
 
 My education: Bachelor's Degree. Technical University in Kosice, Fakulta elektrotechniky a informatiky. 
@@ -24,3 +25,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## You can analyze my projects below ⬇️
