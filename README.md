@@ -8,7 +8,7 @@ My education: **Bachelor's Degree**. Technical University in Kosice, Fakulta ele
 How to contact me: Just send email to [ruslan.diakov00@gmail.com](mailto:ruslan.diakov00@gmail.com)
 
 ## My tech stack
-![Static Badge](https://img.shields.io/badge/C%23-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/C%23-316192?style=for-the-badge&logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Clojure-239120?style=for-the-badge&logo=clojure&logoColor=white)
 
