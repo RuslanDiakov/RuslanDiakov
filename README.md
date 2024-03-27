@@ -11,6 +11,12 @@ How to contact me: Just send email to [ruslan.diakov00@gmail.com](mailto:ruslan.
 ![Static Badge](https://img.shields.io/badge/C%23-316192?style=for-the-badge&logo=csharp&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/WPF-316192?style=for-the-badge&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/MVC-316192?style=for-the-badge&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Java-E0753F?style=for-the-badge&logo=java&logoColor=white)
+![Static Badge](https://img.shields.io/badge/JavaFX-E0753F?style=for-the-badge&logo=java&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Spring-E0753F?style=for-the-badge&logo=java&logoColor=white)
+![Static Badge](https://img.shields.io/badge/mysql-E0BB3F?style=for-the-badge&logo=mysql&logoColor=black)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-E0BB3F?style=for-the-badge&logo=PostgreSQL&logoColor=black)
+![Static Badge](https://img.shields.io/badge/sqlite-E0BB3F?style=for-the-badge&logo=sqlite&logoColor=black)
 
 
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
